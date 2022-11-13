@@ -1,4 +1,4 @@
-# stickynotesapp
+# Sticky-Notes-App
 
 This is a Sticky Note Application developed in HTML, CSS, and Javascript. This Application 
 
